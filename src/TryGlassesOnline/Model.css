@@ -1,0 +1,38 @@
+.model {
+  position: relative;
+  max-width: 220px;
+  margin: 0 auto 30px;
+}
+
+.model-image {
+  width: 100%;
+}
+
+.model-glasses {
+  position: absolute;
+  top: 65px;
+  left: 50%;
+  width: 100px;
+  transform: translateX(-50%);
+}
+
+.model-glasses-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(255, 166, 0, 0.6);
+}
+
+.model-glasses-info h5 {
+  font-size: 14px;
+  font-weight: bold;
+  color: purple;
+  margin-bottom: 5px;
+}
+
+.model-glasses-info p {
+  font-size: 13px;
+  margin-bottom: 0;
+}

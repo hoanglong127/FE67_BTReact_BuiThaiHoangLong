@@ -1,0 +1,12 @@
+.glasses-list-container {
+  position: relative;
+  padding: 30px;
+  margin: 0 auto;
+  background-color: #fff;
+  text-align: center;
+}
+
+.glasses-list-title {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
